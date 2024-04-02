@@ -1,4 +1,1 @@
-This is Tisha Patel/she
-I am currently pursuing my Computer Engineering
-I am interested in Datascience & AI/ML
-
+This is an end to end project of diabetes prediction system.
